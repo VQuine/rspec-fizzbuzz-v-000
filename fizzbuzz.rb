@@ -11,7 +11,7 @@ def fizzbuzz(int)
     "Fizz" # Go fizz
   else
     int % 4 == 0
-    nil
+    "nil"
   end
 end
 
